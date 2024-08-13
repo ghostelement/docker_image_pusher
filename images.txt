@@ -1,4 +1,8 @@
+#拉取同步镜像
+#docker pull registry.cn-hangzhou.aliyuncs.com/ghostleon/{镜像名称}:{镜像版本号}
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.4.2
+#docker.hub
+grafana/grafana:10.0.13
 #支持指定架构
 #--platform=linux/arm64 nginx:latest
