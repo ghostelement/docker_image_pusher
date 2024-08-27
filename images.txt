@@ -9,3 +9,4 @@ grafana/grafana:10.0.13
 
 #####正式拉取镜像#####
 mysql:8.0.30
+quay.io/k8scsi/csi-node-driver-registrar:v1.2.0
