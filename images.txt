@@ -9,4 +9,4 @@
 
 #####正式拉取镜像#####
 #mysql:8.0.30
-ctrox/csi-s3:v1.2.0-rc.2
+vulhub/kkfileview:4.3.0
