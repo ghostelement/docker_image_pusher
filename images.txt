@@ -9,4 +9,4 @@
 
 #####正式拉取镜像#####
 #mysql:8.0.30
-vulhub/kkfileview:4.3.0
+bitnami/zookeeper:3.8.0-debian-10-r0
