@@ -9,4 +9,4 @@
 
 #####正式拉取镜像#####
 #mysql:8.0.30
-bitnami/zookeeper:3.8.0-debian-10-r0
+alpine:latest
