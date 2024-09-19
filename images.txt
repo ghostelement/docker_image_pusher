@@ -9,4 +9,4 @@
 
 #####正式拉取镜像#####
 #mysql:8.0.30
-alpine:latest
+bitnami/kafka:2.8.1-debian-10-r238
