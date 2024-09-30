@@ -10,4 +10,4 @@
 #####正式拉取镜像#####
 #mysql:8.0.30
 #--platform=linux/arm64 nginx:1.25.4
-moby/buildkit:buildx-stable-1
+konajdk/konajdk:8-alpine-aarch64-8.0.18
